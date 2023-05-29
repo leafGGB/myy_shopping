@@ -1,0 +1,29 @@
+.banner .center-wrap .leftbtn {
+    position: absolute;
+    width: 28px;
+    height: 44px;
+    background: url(images/icons.png) no-repeat -21px -94px;
+    top: 50%;
+    left: -38px;
+    margin-top: -22px;
+}
+
+.banner .center-wrap .leftbtn:hover {
+    /* 透明度 */
+    opacity: 0.8;
+}
+
+.banner .center-wrap .rightbtn {
+    position: absolute;
+    width: 28px;
+    height: 44px;
+    background: url(images/icons.png) no-repeat -21px -29px;
+    top: 50%;
+    right: -38px;
+    margin-top: -22px;
+}
+
+.banner .center-wrap .rightbtn:hover {
+    /* 透明度 */
+    opacity: 0.8;
+}

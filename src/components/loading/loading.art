@@ -1,0 +1,6 @@
+<div class="loading">
+    <div class="loading-indcoator">
+        <img src="./tiao.gif" alt="">
+    </div>
+    <div class="loading-text">加载中...</div>
+</div>
